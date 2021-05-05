@@ -38,6 +38,9 @@
 
 ![wire turning](https://d33wubrfki0l68.cloudfront.net/5513d625ddd0c1e3cf21ab58bcedf82e73812c23/74794/en/blog/uploads/working-with-a-fellow-designer-wireframing.jpg)
 
+[seconed page](https://github.com/walaa124/structure/blob/main/HTML.md#seconed-page)
+
+
 
 
 
